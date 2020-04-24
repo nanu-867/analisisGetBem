@@ -7,8 +7,10 @@ El análisis se realizó con la herramienta **wave**
  1. Falta el atributo **lang** de la etiqueta **html** que define el idioma.
 > Solución: definir el idioma con dicho atributo
 
- 2. Falta texto alternativo (atributo **alt** dentro de la etiqueta **img**) en 15 imágenes.
+ 2. Falta texto alternativo (atributo **alt** dentro de la etiqueta **img**).
  > Solución: Escribir el atributo alt con una descripción acorde a cada imagen
+
+ Número de ocurrencias: 15
  
 
 ## Alertas
