@@ -30,4 +30,4 @@ Número de ocurrencias: 3
 1. Texto alternativo no descriptivo
  > Solución: al utilizar el atributo alt, escribir un texto acorde al contenido de la imagen, sea su descripción o función para que un lector de pantalla pueda leerlo correctamente, u otras situaciones en las que los usuarios no podrían ver la imagen.
 
-Número de ocurrencias: 1# analisisGetBem
+Número de ocurrencias: 1
